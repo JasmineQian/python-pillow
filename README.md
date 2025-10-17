@@ -10,21 +10,21 @@
 ├── requirement.txt                # 依赖包列表
 ├── main.py                        # 主程序入口，演示所有功能
 ├── examples/                      # 示例脚本
-│   ├── run_basic.py              # 运行基础操作示例
-│   ├── run_transformations.py    # 运行变换操作示例
-│   ├── run_filters.py            # 运行滤镜示例
-│   └── run_drawing.py            # 运行绘图示例
+│   ├── run_basic.py               # 运行基础操作示例
+│   ├── run_transformations.py     # 运行变换操作示例
+│   ├── run_filters.py             # 运行滤镜示例
+│   └── run_drawing.py             # 运行绘图示例
 ├── modules/                       # 功能模块
-│   ├── basic_operations.py       # 基础图像操作
-│   ├── transformations.py        # 图像变换
-│   ├── filters_effects.py        # 滤镜和效果
-│   ├── drawing.py                # 绘图功能
-│   ├── color_operations.py       # 颜色操作
-│   ├── composition.py            # 图像合成
-│   ├── text_operations.py        # 文字操作
-│   └── advanced.py               # 高级功能
+│   ├── basic_operations.py        # 基础图像操作
+│   ├── transformations.py         # 图像变换
+│   ├── filters_effects.py         # 滤镜和效果
+│   ├── drawing.py                 # 绘图功能
+│   ├── color_operations.py        # 颜色操作
+│   ├── composition.py             # 图像合成
+│   ├── text_operations.py         # 文字操作
+│   └── advanced.py                # 高级功能
 ├── input/                         # 输入图片目录
-│   └── sample.jpg                # 示例图片
+│   └── sample.jpg                 # 示例图片
 └── output/                        # 输出图片目录
 ```
 
